@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc737ad6-ae7b-4894-9d70-d4660a1da13c" name="Changes" comment="" />
+    <list default="true" id="fc737ad6-ae7b-4894-9d70-d4660a1da13c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitToolBoxStore">
     <option name="recentBranches">
@@ -40,6 +42,21 @@
               </option>
               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
             </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1667954970" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1667954969" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
+            </RecentBranchesForRepo>
           </list>
         </option>
       </RecentBranches>
@@ -54,14 +71,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.AssertionsTest">
+}</component>
+  <component name="RunManager" selected="JUnit.ConsultarDadosDePessoaTest">
     <configuration name="AssertionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-maven-empty" />
       <extension name="coverage">
@@ -125,7 +142,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsultarDadosDePessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-maven-empty" />
       <extension name="coverage">
         <pattern>
@@ -134,7 +151,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dio.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.dio.junit.PessoaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.junit.ConsultarDadosDePessoaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConsultarDadosDePessoaTest" />
         <item itemvalue="JUnit.AssertionsTest" />
         <item itemvalue="JUnit.AssertionsTest.validarNumerosDeTiposDiferentes" />
         <item itemvalue="JUnit.AssertionsTest.validarSeObjetoEstaNulo" />
         <item itemvalue="JUnit.AssertionsTest.validarLancamentos" />
-        <item itemvalue="JUnit.PessoaTest" />
       </list>
     </recent_temporary>
   </component>
