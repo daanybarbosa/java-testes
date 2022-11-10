@@ -24,4 +24,10 @@ public class PessoaTest {
         Pessoa joao = new Pessoa("João", LocalDateTime.now());
         Assertions.assertFalse(joao.ehMaiorDeIdade()); //executa as validações - testa condições - false
     }
+
+    @Test
+    void validaIgualdade() {
+        Pessoa pessoa = new Pessoa("Pessoa 1", LocalDateTime.now());
+        Assertions.assertSame(pessoa, pessoa);
+    }
 }
