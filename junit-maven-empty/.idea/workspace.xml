@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc737ad6-ae7b-4894-9d70-d4660a1da13c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../mockito" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mockito/src/main/java/com/dio/mockito/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mockito/src/main/java/com/dio/mockito/Mensagem.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc737ad6-ae7b-4894-9d70-d4660a1da13c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
