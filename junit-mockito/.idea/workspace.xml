@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e020a116-97c7-4960-bf25-6e0b043e17c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../junit-maven-empty/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../junit-maven-empty/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e020a116-97c7-4960-bf25-6e0b043e17c3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +58,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/danielebsilva/Estudos/Java/JUnit/dio/junit-mockito"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CadastrarPessoaTest">
-    <configuration name="CadastrarPessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
+  <component name="RunManager" selected="JUnit.GeradorDeNumerosTest">
+    <configuration name="ApiDosCorreiosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-mockito" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dio.mockito.*" />
@@ -73,14 +72,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dio.mockito" />
-      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.CadastrarPessoaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.ApiDosCorreiosTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadastrarPessoaTest.validarDadosDeCadastro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
+    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-mockito" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dio.mockito.*" />
@@ -88,15 +87,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dio.mockito" />
-      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.CadastrarPessoaTest" />
-      <option name="METHOD_NAME" value="validarDadosDeCadastro" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.ContaTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito" />
+    <configuration name="GeradorDeNumerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-mockito" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dio.mockito.*" />
@@ -104,7 +102,37 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dio.mockito" />
-      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.ListaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.GeradorDeNumerosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PessoaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dio.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dio.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.PessoaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlataformaDeEnvioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dio.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dio.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.dio.mockito.PlataformaDeEnvioTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,9 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CadastrarPessoaTest" />
-        <item itemvalue="JUnit.CadastrarPessoaTest.validarDadosDeCadastro" />
-        <item itemvalue="JUnit.ListaTest" />
+        <item itemvalue="JUnit.GeradorDeNumerosTest" />
+        <item itemvalue="JUnit.PlataformaDeEnvioTest" />
+        <item itemvalue="JUnit.PessoaTest" />
+        <item itemvalue="JUnit.ApiDosCorreiosTest" />
+        <item itemvalue="JUnit.ContaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,16 +169,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/dio/mockito/CadastrarPessoa.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

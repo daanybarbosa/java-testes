@@ -8,7 +8,7 @@ public class EnviarMensagem {
 
     private List<Mensagem> mensagens = new ArrayList<>();
 
-    private void adicionarMensagem(Mensagem mensagem){
+    public void adicionarMensagem(Mensagem mensagem){
         this.mensagens.add(mensagem);
     }
 
